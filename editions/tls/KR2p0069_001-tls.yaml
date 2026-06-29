@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR2p0069/tls/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鄭子家亡邊人來告莊王就大夫而與之言曰鄭子家殺其君不穀日欲以告大夫以邦之病甲以急於今而後楚邦思應爲諸侯正今鄭子家殺其君將保其恭炎以沒入地如上帝鬼甲神以爲怒吾將何以答雖邦之病將必爲師乃起師圍鄭三月鄭人請其故王命答之曰鄭子甲家顚覆天下之禮弗畏鬼神之不祥戕賊其君將必使子家毋以成名立於上而滅甲於下鄭人命以子良爲質命使子家梨木三寸疏索以紘毋敢當門而出掩之城基甲王許之師未還晉人涉將救鄭王將還
+  hash: sha256:d3aa2d55fd197ad408e7d3c6eda461e4c4a729ceb8e39c622452415ca973837e
+metadata:
+  title: 楚竹書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0069.xml
+hash: sha256:b7a7e9fbc51140d65e211104d21614bd70ce9d923ce6c7136b0654255a224a56
